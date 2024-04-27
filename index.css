@@ -24,15 +24,15 @@
     justify-items: center;
     gap: 10px;
 }
-.hero-section{
+.hero-section {
     justify-content: space-evenly;
-    display: flex ;
+    display: flex;
     padding-top: 90px;
-
 }
-.bottom{
-    display: flex ;
-    justify-content: space-evenly;
-
-    font-family: "IBM Plex sans", serif;
-}
+    .bottom {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-family: "IBM Plex Sans", sans-serif;
+        gap: 55px;
+    }
