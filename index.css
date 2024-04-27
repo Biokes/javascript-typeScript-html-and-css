@@ -44,3 +44,7 @@
         color: #f1f3f1;
         padding:10px;
     }
+    .image{
+        width: 400px;
+        object-fit: contain;
+    }
