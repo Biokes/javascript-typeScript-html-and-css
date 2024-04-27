@@ -36,3 +36,11 @@
         font-family: "IBM Plex Sans", sans-serif;
         gap: 55px;
     }
+    .learnMore{
+        background-color: #4CAF4F;
+        border-radius: 3px;
+        background-size: 30px;
+        border: none;
+        color: #f1f3f1;
+        padding:10px;
+    }
