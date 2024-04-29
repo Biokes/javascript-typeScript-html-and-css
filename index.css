@@ -39,10 +39,10 @@
     .learnMore{
         background-color: #4CAF4F;
         border-radius: 3px;
-        background-size: 30px;
+        padding: 10px;
         border: none;
         color: #f1f3f1;
-        padding:10px;
+        margin-top: 10px;
     }
     .image{
         width: 400px;
