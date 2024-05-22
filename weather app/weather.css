@@ -1,0 +1,40 @@
+.main{
+    background: #84c0f8;
+    margin-top: 7%;
+    border-radius: 12px;
+    border: #100d0d solid;
+    justify-content: center;
+    align-items: center;
+    margin-inline:15%;
+}
+.header{
+    background: #100d0d;
+    color: #a2bbd5;
+    text-align: center;
+    font-weight: bolder;
+    font-size: xx-large;
+}
+.body{
+    border: #1d5d9f;
+    justify-content: flex-end;
+    display: flex;
+    margin-bottom: 4%;
+    margin-right: 4%;
+}
+.search{
+    background: #100d0d;
+    color: #f3b0b0;
+    font-weight: bolder;
+    font-size: larger;
+    margin-block: 0 4%;
+}
+.input{
+    font-weight: bolder;
+    font-size: larger;
+    border-radius: 10px 0 0 10px ;
+}
+
+.search:active{
+    background-color: #4d4a4a;
+    color: #c57272;
+}
